@@ -1,0 +1,32 @@
+# Serena Hu
+# shu53
+# DataLoop Project README
+
+## Overview
+This project implements a circular doubly linked list structure called DataLoop in C++. The implementation is divided into two parts: an Integer DataLoop and a Templated DataLoop, allowing the structure to hold data of any type.
+
+## Files
+- **DataLoop.h**: Header file for the DataLoop class.
+- **DataLoop.cpp**: Implementation file for the Integer DataLoop.
+- **DataLoopTest.cpp**: Test file for the Integer DataLoop.
+- **TDataLoop.h**: Header file for the Templated DataLoop.
+- **TDataLoop.inc**: Implementation file for the Templated DataLoop.
+- **TDataLoopTest.cpp**: Test file for the Templated DataLoop.
+- **Makefile**: Makefile for compiling and testing the programs.
+
+### Functions Implemented:
+1. **Default constructor**: Creates an empty dataloop.
+2. **Non-default constructor**: Creates a dataloop with one element.
+3. **Copy constructor**: Implements deep copy.
+4. **operator=**: Implements assignment for deep copy.
+5. **Destructor**: Deallocates dynamically allocated memory.
+6. **operator==**: Compares two dataloops for equality.
+7. **operator+=**: Adds an integer to the end of the dataloop.
+8. **operator+**: Concatenates two dataloops without modifying the originals.
+9. **operator^**: Shifts the start position in the dataloop.
+10. **splice**: Inserts an entire dataloop into another at the specified position.
+11. **length**: Returns the number of data values (nodes) in the dataloop.
+12. **operator<<**: Overloaded operator for printing the dataloop.
+
+### Additional Helper Functions:
+- **clearDataLoop**：helper function to remove all existing element in the data loop

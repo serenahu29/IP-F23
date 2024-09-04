@@ -1,0 +1,635 @@
+commit 956d792f1b297c681f3770fe3c2f6443f8c71d83
+Author: Serena <shu53@jh.edu>
+Date:   Wed Oct 25 20:17:37 2023 -0400
+
+    testing test01
+
+commit 9eeaf285f7689b79b006bdbaaec68c6b1c2874af
+Author: Serena <shu53@jh.edu>
+Date:   Wed Oct 25 20:00:41 2023 -0400
+
+    testing test06, worked
+
+commit dbd32d58ff2da9639a4d0ee796cdffa68d61c04d
+Author: Serena <shu53@jh.edu>
+Date:   Wed Oct 25 19:47:14 2023 -0400
+
+    added the I and W command condition in the mainfile puzzle.c
+
+commit df5ea9645c1938fbeb0cbab99d21c4f17ba5ecfe
+Author: Serena <shu53@jh.edu>
+Date:   Wed Oct 25 19:11:45 2023 -0400
+
+    added gitlog
+
+commit d1b716414639e1dab862351984ace11ad0f227c1
+Author: Serena <shu53@jh.edu>
+Date:   Wed Oct 25 19:10:24 2023 -0400
+
+    Added README
+
+commit e6dd125eeb05dcab5acb7f3d37416ac8e3f2a421
+Author: Serena <shu53@jh.edu>
+Date:   Wed Oct 25 18:54:49 2023 -0400
+
+    updated merged files
+
+commit b7201d269d0b05b47a50d8005c861edc1d4e97b2
+Merge: ee22f5d 35020e3
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Wed Oct 25 18:42:42 2023 -0400
+
+    fixing command v
+
+commit ee22f5d3895fe90e3d2c647fa566fb15d6d1bc4e
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Wed Oct 25 18:42:08 2023 -0400
+
+    fixing command v
+
+commit 35020e34df23bfff87075eff97984ca64f61a63b
+Author: Serena <shu53@jh.edu>
+Date:   Wed Oct 25 18:39:16 2023 -0400
+
+    updated makefile so that valgrind works
+
+commit c81e0ea8647beaba5c442d4962cdc41f0e4cb9fd
+Author: Serena <shu53@jh.edu>
+Date:   Wed Oct 25 17:46:42 2023 -0400
+
+    checking valgrind
+
+commit cc1b005d98f7553f3d84d4ece17346b8354328fb
+Author: Serena <shu53@jh.edu>
+Date:   Wed Oct 25 16:59:29 2023 -0400
+
+    fixed a minor error
+
+commit 7a87cf29839b67a50f1a05a309a247c1ac42fcb1
+Merge: a42b3c5 54a341b
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Wed Oct 25 16:23:03 2023 -0400
+
+    working on v command tests
+
+commit a42b3c5dd81678f80b26feda5b2df8a8ac0f8e91
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Wed Oct 25 16:20:33 2023 -0400
+
+    working on debugging command v
+
+commit 54a341b99de3f99401255756e56a4d6c555cc066
+Author: Serena <shu53@jh.edu>
+Date:   Wed Oct 25 15:53:39 2023 -0400
+
+    fixing test functions for T and C command
+
+commit 924c7d1df8b1889ad29645b3a5c40f951b2ba254
+Merge: 85c8a7f a7c90f8
+Author: Serena <shu53@jh.edu>
+Date:   Wed Oct 25 15:32:50 2023 -0400
+
+    merge conflict
+
+commit 85c8a7f38e2b3cc4dbf04f317e56f798357c8eb8
+Author: Serena <shu53@jh.edu>
+Date:   Wed Oct 25 15:23:35 2023 -0400
+
+    merge
+
+commit a7c90f82e3bd7450ac58ea0e30518c1933175a86
+Merge: 3c503b2 1e1793e
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Wed Oct 25 14:58:48 2023 -0400
+
+    testing and debugging command v
+
+commit 3c503b22241cfbeaa489f051f3c17c32cd66cccd
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Wed Oct 25 14:56:14 2023 -0400
+
+    making test for v/debugging command v
+
+commit 1e1793ef68b6f617e71c1789aa4db1b06bd356cc
+Author: Serena <shu53@jh.edu>
+Date:   Wed Oct 25 14:22:34 2023 -0400
+
+    checking memory leaks, fixed two errors in P
+
+commit b982b5bd2b3fdba6d1d10e9d822cf79eb6bc0dcb
+Author: Serena <shu53@jh.edu>
+Date:   Wed Oct 25 13:58:09 2023 -0400
+
+    checking memory leaks
+
+commit 5703ddcfb2d0aae6d5928cd2a7969514d13b4eb0
+Merge: 861cb58 06d720a
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Wed Oct 25 13:48:16 2023 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2023-fall-midterm-ezou2-shu53
+    
+    merge conflict
+
+commit 861cb58e89c194a70f065b0b545f3833f778f1fe
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Wed Oct 25 13:48:08 2023 -0400
+
+    changed function test for command v
+
+commit 06d720ac39ef27d8f8183cb6294e8e7c11dbc793
+Author: Serena <shu53@jh.edu>
+Date:   Wed Oct 25 13:47:10 2023 -0400
+
+    I function test fixed
+
+commit a6f64b194f521a022b9ffc98976ac9048a786e1e
+Author: Serena <shu53@jh.edu>
+Date:   Wed Oct 25 13:19:47 2023 -0400
+
+    debugging I function, made image** background into image* background
+
+commit 9a56a56acefb63a6ee83a2316dd8d582ddc0098a
+Author: Serena <shu53@jh.edu>
+Date:   Wed Oct 25 13:01:25 2023 -0400
+
+    testing I function
+
+commit e1e33748d04ac69f37c4dcc5a08e86798fa86e19
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Wed Oct 25 12:24:33 2023 -0400
+
+    deleted debugging printing statements
+
+commit e89e8026b2f9515ff9ebffd0cd6c9daff49b55d5
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Wed Oct 25 12:20:00 2023 -0400
+
+    tested and fixed all bugs in command s
+
+commit 14252d99cd940d4ea2464afd34561314577b38c5
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Wed Oct 25 12:06:31 2023 -0400
+
+    still working on debugging command s
+
+commit 0b26f11e7609b8656d46b8335304a87b4a5f9816
+Merge: c730e6a e149700
+Author: Serena <shu53@jh.edu>
+Date:   Wed Oct 25 11:19:01 2023 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2023-fall-midterm-ezou2-shu53
+
+commit c730e6a484b4844b8840912f327cedc2a1772416
+Author: Serena <shu53@jh.edu>
+Date:   Wed Oct 25 11:18:55 2023 -0400
+
+    testing functions
+
+commit e14970095789dde4cac3a2fc7d1b25ec10f03ee4
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Wed Oct 25 11:18:22 2023 -0400
+
+    adding tests for command S
+
+commit 097b92f6bf60e390e1605fe44cb817f66bfada05
+Author: Serena <shu53@jh.edu>
+Date:   Wed Oct 25 10:28:02 2023 -0400
+
+    deleting unnecessary test file
+
+commit 9f0ebd12676f42824b0840c7d76e3d27272fa6e8
+Author: Serena <shu53@jh.edu>
+Date:   Wed Oct 25 03:32:28 2023 -0400
+
+    tested functioin I,W,K, debugged, W&K worked yet I failed tests
+
+commit d2f317e98ec97961ca3f9e713e009b0727c8ea67
+Merge: f4fe7d4 28cd394
+Author: Serena <shu53@jh.edu>
+Date:   Wed Oct 25 02:08:11 2023 -0400
+
+    merge
+
+commit f4fe7d45332838e45429c258386a130b985ff2a2
+Author: Serena <shu53@jh.edu>
+Date:   Wed Oct 25 02:06:01 2023 -0400
+
+    merge
+
+commit 28cd39445389c8ce49f90f53cf908d9101523018
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Wed Oct 25 00:10:59 2023 -0400
+
+    continue to work on debuggin on command C
+
+commit b5ab3e0a094c6e03f94ff3edd15d68a6f19968c0
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Tue Oct 24 23:18:50 2023 -0400
+
+    debugged most of command T using tests
+
+commit fe727189b51a4ab395277129f76ed1a64df06425
+Merge: b667296 42be52d
+Author: Serena <shu53@jh.edu>
+Date:   Tue Oct 24 21:09:10 2023 -0400
+
+    solving merge conflict again
+
+commit b66729659b5d053b658d5e832806b1a2f82a4914
+Author: Serena <shu53@jh.edu>
+Date:   Tue Oct 24 21:04:44 2023 -0400
+
+    merge conflict
+
+commit 42be52df35125f63795ad3390109baa75c269696
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Tue Oct 24 21:04:09 2023 -0400
+
+    debugging
+
+commit 1802d8fc4a3c0fa448f04f7cd80347b00cf80112
+Merge: 086741e 410f6f5
+Author: Serena <shu53@jh.edu>
+Date:   Tue Oct 24 20:18:55 2023 -0400
+
+    merge conflictgit add .!
+
+commit 086741ec648e98b79f50c33e16eaa883c8ba0255
+Author: Serena <shu53@jh.edu>
+Date:   Tue Oct 24 20:12:37 2023 -0400
+
+    another merge conflict
+
+commit 410f6f55975af0afec8b3d6b98c62f9ed13cafbe
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Tue Oct 24 20:11:31 2023 -0400
+
+    fixed error in create puzzle
+
+commit b5dfaeb479a0ed32c1d0a801efdd219242420c59
+Merge: 7372534 0c75f56
+Author: Serena <shu53@jh.edu>
+Date:   Tue Oct 24 19:46:54 2023 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2023-fall-midterm-ezou2-shu53
+
+commit 7372534db8844ddd69d43119b023ef1786411f5c
+Author: Serena <shu53@jh.edu>
+Date:   Tue Oct 24 19:46:14 2023 -0400
+
+    updated all tiles from 2d array to 1d array
+
+commit 0c75f566fd1b9d8479c90ad458a2af302265a0a0
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Tue Oct 24 19:42:08 2023 -0400
+
+    made tests and assertions for command C and T
+
+commit 52ec567eeb7d5f29850b6f969e870ab99e69a527
+Merge: 7590206 ef3cbf4
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Tue Oct 24 19:23:47 2023 -0400
+
+    merge conflict
+    
+    Merge branch 'master' of github.com:jhu-ip/2023-fall-midterm-ezou2-shu53
+
+commit 75902064ab17eb9d5b31f84a4acf82a36ad76da3
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Tue Oct 24 19:23:43 2023 -0400
+
+    debugging git merge
+
+commit 6952598ef20f9127ce2f142348919e558bdb2081
+Merge: bd16524 4dad6d1
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Tue Oct 24 19:22:28 2023 -0400
+
+    testing functions still
+
+commit ef3cbf403eddbc51c3af4c5f20b0a7bb71abd368
+Author: Serena <shu53@jh.edu>
+Date:   Tue Oct 24 19:20:13 2023 -0400
+
+    debugging
+
+commit bd16524fb7cc9345ef8916fa1833906572a9e448
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Tue Oct 24 19:11:14 2023 -0400
+
+    started doing tests
+
+commit 4dad6d1675a98b934ee026bc3bc8e73e2f407425
+Author: Serena <shu53@jh.edu>
+Date:   Tue Oct 24 18:51:30 2023 -0400
+
+    changing tiles from 2d to 1d array
+
+commit 8c393c1fe902c1a8787a1bba31ba70f673ac9650
+Author: Serena <shu53@jh.edu>
+Date:   Tue Oct 24 18:08:45 2023 -0400
+
+    Makefile test worked, debugging puzzle_create function
+
+commit 34fdf3d5b4533c9fc90b93a2c7fa04d78ebc3150
+Merge: 82b99ad d266215
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Tue Oct 24 16:47:14 2023 -0400
+
+    started working on tests and fixing errors. fixed puzzle_destroy.
+
+commit 82b99adedd425720653c2a1d96b628841af61416
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Tue Oct 24 16:40:15 2023 -0400
+
+    Started testing functions. Fixed puzzle destroy function freeing error.
+
+commit d266215e8abe8ac797aff2b2cebc75a238a8b78b
+Author: Serena <shu53@jh.edu>
+Date:   Tue Oct 24 16:08:42 2023 -0400
+
+    revising makefile test
+
+commit 89fd1748432d3a7b5ed55256a7bacfd884f93118
+Author: Serena <shu53@jh.edu>
+Date:   Tue Oct 24 15:53:30 2023 -0400
+
+    solving git commit errors
+
+commit 2c41c36eb7438f921656ea0fa2c8a73da95d827d
+Merge: 9554dc7 6606f38
+Author: Serena <shu53@jh.edu>
+Date:   Tue Oct 24 15:51:36 2023 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2023-fall-midterm-ezou2-shu53
+
+commit 9554dc72acb8c1ceed334fff0dcb4c89090cc6e0
+Author: Serena <shu53@jh.edu>
+Date:   Tue Oct 24 15:47:03 2023 -0400
+
+    debugging
+
+commit 6606f388c11ac04f37a5ee7048eb8b6cd571ca19
+Merge: 08e6a71 a7c8860
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Tue Oct 24 15:35:02 2023 -0400
+
+    fixing git errors
+    
+    Merge branch 'master' of github.com:jhu-ip/2023-fall-midterm-ezou2-shu53
+
+commit 08e6a71265925e55e6a72a225bd496fa1cebf3e8
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Tue Oct 24 15:34:49 2023 -0400
+
+    fixed compile errors of the functions that I had worked on. created a new file for testing functions.
+
+commit 3a6d9deffceb8bd81474a3def105fccecd627cd1
+Author: Serena <shu53@jh.edu>
+Date:   Tue Oct 24 15:30:02 2023 -0400
+
+    debugging
+
+commit a7c8860c79e68adf480dda78168cc0a1159458bb
+Author: Serena <shu53@jh.edu>
+Date:   Tue Oct 24 15:13:21 2023 -0400
+
+    updated Makefile, added ppm_io.o and created executable test
+
+commit 76b6c2f2f522b3bd8517d89260dc51839aab79b1
+Author: Serena <shu53@jh.edu>
+Date:   Tue Oct 24 14:36:00 2023 -0400
+
+    makefile updated
+
+commit 3a4ce5f44cb38171ea1d1b7798a9eb72a1ec4263
+Author: Serena <shu53@jh.edu>
+Date:   Tue Oct 24 14:02:58 2023 -0400
+
+    debugged funcs
+
+commit f700831647b329515048eea3c63d1c98df6797dc
+Author: Serena <shu53@jh.edu>
+Date:   Tue Oct 24 13:49:23 2023 -0400
+
+    updated puzzle destroy
+
+commit ae42f486b0c4738412b48b43fce0b61392ff9fe9
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Tue Oct 24 12:44:07 2023 -0400
+
+    fixing compile errors
+
+commit 8d1ee921f476abc38ccfee960994afd4bff93b6e
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Tue Oct 24 12:03:10 2023 -0400
+
+    created main function to read an input and handle errors
+
+commit f4efd87d6f600d323c84052ac89a644d2bf7d181
+Author: Serena <shu53@jh.edu>
+Date:   Mon Oct 23 21:02:52 2023 -0400
+
+    debugging puzzle_funcs
+
+commit 3002b4be0371e44eea9402ed06af2ae2217577cf
+Author: Serena <shu53@jh.edu>
+Date:   Mon Oct 23 20:55:41 2023 -0400
+
+    debugging
+
+commit 1d79140e075bf412a67521260795c441c1253f10
+Author: Serena <shu53@jh.edu>
+Date:   Mon Oct 23 20:39:31 2023 -0400
+
+    updated function puzzle_create, initialized tiles with values
+
+commit 04bbd0a304ba10a19aaaad741f5f365108b31372
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Mon Oct 23 20:35:39 2023 -0400
+
+    finished initial code for handle_V_command
+
+commit dff77c4905215a835fcc86dfb2d0ca29bccc5ddb
+Merge: 4157352 73337cc
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Mon Oct 23 20:05:17 2023 -0400
+
+    "Merge because attempted push before pulling."
+    
+    Merge branch 'master' of github.com:jhu-ip/2023-fall-midterm-ezou2-shu53
+
+commit 4157352657d90a3fa39148e9b04e8f66ee49dab7
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Mon Oct 23 20:05:01 2023 -0400
+
+    started to add basic code to handle_V_command
+
+commit 73337cc8d4e1310aeba1b199aea066448585cb44
+Author: Serena <shu53@jh.edu>
+Date:   Mon Oct 23 19:24:37 2023 -0400
+
+    updated create puzzle and get tile function
+
+commit 4f65c23755ff602775479bb12d897cff4a4b8db3
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Mon Oct 23 15:36:59 2023 -0400
+
+    Finished coding handle_S_command, still need to edit and do error handling for it.
+
+commit 28e851f347de470fa0999484feca16998c83ef6a
+Merge: c377ed5 54d3aee
+Author: Serena <shu53@jh.edu>
+Date:   Mon Oct 23 15:02:57 2023 -0400
+
+    merge conflicts
+
+commit c377ed5529abe86f312c01a324cb17287e965802
+Author: Serena <shu53@jh.edu>
+Date:   Mon Oct 23 14:57:10 2023 -0400
+
+    updated details in puzzle_funcs
+
+commit 54d3aee39fe94f910b0ee86dff53bd891a162fba
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Mon Oct 23 14:40:59 2023 -0400
+
+    refined even more pseudo code and made other pseudo code into real code in handle_S_commnad
+
+commit 5ca13b3b1d4a96c0d0f0bfeb1764a8770f3c38a8
+Merge: 6976379 d635a92
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Mon Oct 23 14:06:54 2023 -0400
+
+    Merging because attempt to push failed due to changes that were not saved locally.
+    
+    Merge branch 'master' of github.com:jhu-ip/2023-fall-midterm-ezou2-shu53
+
+commit 6976379a1358dd8dfdcaacaaddef1b0e39b94cff
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Mon Oct 23 14:06:33 2023 -0400
+
+    refined pseudo code for handle_S_command
+
+commit d635a92baf8ce49176f454fbb022e5d51897c011
+Author: Serena <shu53@jh.edu>
+Date:   Mon Oct 23 14:03:51 2023 -0400
+
+    changed *tiles in struct into **tiles
+
+commit 121c7108ae20a9d8589152abe6a8388036f520be
+Author: Serena <shu53@jh.edu>
+Date:   Mon Oct 23 13:45:25 2023 -0400
+
+    modified config into tiles
+
+commit 3afcbe6ba799878806425e5a64ce2c0b699211cd
+Author: Serena <shu53@jh.edu>
+Date:   Mon Oct 23 13:43:14 2023 -0400
+
+    modified puzzle struct field numRows into size
+
+commit 0b065e412bf44821b90f133fc4d2778e111b791d
+Author: Serena <shu53@jh.edu>
+Date:   Mon Oct 23 00:04:29 2023 -0400
+
+    updated functions handle I, W, K command, corresponding declaration in puzzle.h and puzzle_destroy
+
+commit 6fb8860684dcc13287e61a023f135c75b372f016
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Sun Oct 22 13:23:00 2023 -0400
+
+    wrote pseudo code for handle_S_command
+
+commit 0e929627cbded529ca8d24dcdcf3114091ee31ea
+Merge: 90aab63 4efe658
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Wed Oct 18 14:24:11 2023 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2023-fall-midterm-ezou2-shu53
+
+commit 90aab63a84e52ff6b70091f032a37ee16e254c16
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Wed Oct 18 14:23:25 2023 -0400
+
+    edited and added comments to handle_S_command, handle_P_command, and handle_V_command
+
+commit 4efe658abd5638988ec109598325222fe39e2f7a
+Author: Serena <shu53@jh.edu>
+Date:   Wed Oct 18 14:21:54 2023 -0400
+
+    added opena and read file function to main (puzzle.c)
+
+commit 21b87524392bbdfad915e1f52f12ce08aa8150f7
+Author: Serena <shu53@jh.edu>
+Date:   Tue Oct 17 20:46:03 2023 -0400
+
+    worked on Q command
+
+commit 10009b314b116b218fbca192d4ba1ece78feaece
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Tue Oct 17 20:28:50 2023 -0400
+
+    wrote handle_t_command function without the error handling.
+
+commit cce73e321848a3af3c40d7ecce38359bfda2858e
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Tue Oct 17 20:17:06 2023 -0400
+
+    wrote handle c command function.
+
+commit f0a0b9fdec631b784e57df177c5b5c359127fa34
+Author: Serena <shu53@jh.edu>
+Date:   Tue Oct 17 20:07:47 2023 -0400
+
+    updated Puzzle struct in puzzle.h
+
+commit b2f0b52329fdb2e6b0c0734cd0052582ef22e1b4
+Merge: 805d1d8 484b299
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Tue Oct 17 19:52:42 2023 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2023-fall-midterm-ezou2-shu53
+
+commit 805d1d8bd0819ed30b11ca3c4a57cca69b25fb01
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Tue Oct 17 19:50:18 2023 -0400
+
+    adding comments
+
+commit 484b29966346e4408ee91cc1756855954ebe5f69
+Author: Serena <shu53@jh.edu>
+Date:   Tue Oct 17 19:50:18 2023 -0400
+
+    add changes to func C
+
+commit f308f45ec9b6a0d3e41dc6ebf8135bb1aa785e74
+Author: Serena <shu53@jh.edu>
+Date:   Tue Oct 17 11:40:54 2023 -0400
+
+    edited comments and functions
+
+commit 1afe6c440d556b366b2d235eca7fe7a7a24cac58
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Fri Oct 13 14:44:01 2023 -0400
+
+    added comment on functions in puzzle_funcs.c
+
+commit c0bec2bc0dd3f799b531d497b7ef65bdc898b134
+Author: Emily Zou <ezou2@jh.edu>
+Date:   Fri Oct 13 13:55:27 2023 -0400
+
+    made functions that need to be defined
+
+commit 1c1e108c82e87d16b448982deb7f93ee889eabed
+Author: Serena <shu53@jh.edu>
+Date:   Wed Oct 11 13:53:25 2023 -0400
+
+    added function declaration in puzzle.h
+
+commit 01105d576b0bcab9baa0face158bc84ab81cec46
+Author: Serena <shu53@jh.edu>
+Date:   Wed Oct 11 13:42:07 2023 -0400
+
+    starter

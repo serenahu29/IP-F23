@@ -1,0 +1,164 @@
+Microsoft Windows [Version 10.0.19044.1645]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\shu53>ssh shu53@ugradx.cs.jhu.edu
+shu53@ugradx.cs.jhu.edu's password:
+
+****************************** ugradx.cs.jhu.edu *******************************
+
+                                 UPDATE NOTICE:
+
+  This computer is running Fedora 38, an upgrade to the old operating system,
+  which was Fedora 36.  Please use this computer as you normally would, but if
+ you notice any problems, please submit them through the CS IT bug report form:
+
+                http://support.cs.jhu.edu/forms/bug-report-form
+
+        See https://support.cs.jhu.edu/ for answers to common questions
+       about our systems.  If you have further questions, please e-mail:
+                               support@cs.jhu.edu
+
+     REMINDER:  Please do not run the 'sudo' command on our Linux systems.
+
+*********** Fedora release 38 (Thirty Eight) / kernel 6.4.11 x86_64 ************
+
+Last login: Wed Sep  6 14:23:30 2023 from 10.160.167.123
+shu53: 517KiB used out of 10GiB quota
+[shu53@ugradx ~]$ pwd
+/home/shu53
+[shu53@ugradx ~]$ ls
+ 2023-fall-student-shu53   Desktop  '#ex2.c#'   ex3~        git.log.txt    hello_world.c   README             temp
+ a.out                     ex2       ex2.c      ex3.zip     gitlog.txt     Mail            README~            test.c
+ cs220-f23-public          ex2~      ex3        file1.txt   hello_world~   public_html     README_FIRST.txt   test.c~
+[shu53@ugradx ~]$ cd
+[shu53@ugradx ~]$ pwd
+/home/shu53
+[shu53@ugradx ~]$ cd temp
+[shu53@ugradx temp]$ cp ~/cs220-f23-public/exercises/ex03b/hello_world.c
+cp: missing destination file operand after '/home/shu53/cs220-f23-public/exercises/ex03b/hello_world.c'
+Try 'cp --help' for more information.
+[shu53@ugradx temp]$ pwd
+/home/shu53/temp
+[shu53@ugradx temp]$ ls
+[shu53@ugradx temp]$ cd
+[shu53@ugradx ~]$ pw
+bash: pw: command not found...
+[shu53@ugradx ~]$ pwd
+/home/shu53
+[shu53@ugradx ~]$ cd cs220-f23-public
+[shu53@ugradx cs220-f23-public]$ ls
+exercises  README.md
+[shu53@ugradx cs220-f23-public]$ cd
+[shu53@ugradx ~]$ pwd
+/home/shu53
+[shu53@ugradx ~]$ ls
+ 2023-fall-student-shu53   Desktop  '#ex2.c#'   ex3~        git.log.txt    hello_world.c   README             temp
+ a.out                     ex2       ex2.c      ex3.zip     gitlog.txt     Mail            README~            test.c
+ cs220-f23-public          ex2~      ex3        file1.txt   hello_world~   public_html     README_FIRST.txt   test.c~
+[shu53@ugradx ~]$ cd temp
+[shu53@ugradx temp]$ cp temp/cs220-f23-public/excercises/ex03b/hello_world.c
+cp: missing destination file operand after 'temp/cs220-f23-public/excercises/ex03b/hello_world.c'
+Try 'cp --help' for more information.
+[shu53@ugradx temp]$ cp ~/cs220-f23-public/exercises/ex03b/hello_world.c .
+cp: cannot stat '/home/shu53/cs220-f23-public/exercises/ex03b/hello_world.c': No such file or directory
+[shu53@ugradx temp]$ cp temp/cs220-f23-public/excercises/ex03b/hello_world.c .
+cp: cannot stat 'temp/cs220-f23-public/excercises/ex03b/hello_world.c': No such file or directory
+[shu53@ugradx temp]$ pwd
+/home/shu53/temp
+[shu53@ugradx temp]$ ls
+[shu53@ugradx temp]$ cd
+[shu53@ugradx ~]$ cd cs220-f23-public
+[shu53@ugradx cs220-f23-public]$ pwd
+/home/shu53/cs220-f23-public
+[shu53@ugradx cs220-f23-public]$ ls
+exercises  README.md
+[shu53@ugradx cs220-f23-public]$ cd excercises
+-bash: cd: excercises: No such file or directory
+[shu53@ugradx cs220-f23-public]$ cd /excercises
+-bash: cd: /excercises: No such file or directory
+[shu53@ugradx cs220-f23-public]$ cd
+[shu53@ugradx ~]$
+[shu53@ugradx ~]$ ls
+ 2023-fall-student-shu53   Desktop  '#ex2.c#'   ex3~        git.log.txt    hello_world.c   README             temp
+ a.out                     ex2       ex2.c      ex3.zip     gitlog.txt     Mail            README~            test.c
+ cs220-f23-public          ex2~      ex3        file1.txt   hello_world~   public_html     README_FIRST.txt   test.c~
+[shu53@ugradx ~]$ cd 2023*
+[shu53@ugradx 2023-fall-student-shu53]$ ls
+exercises  README
+[shu53@ugradx 2023-fall-student-shu53]$ cd excercises
+-bash: cd: excercises: No such file or directory
+[shu53@ugradx 2023-fall-student-shu53]$ cd exercises
+[shu53@ugradx exercises]$ ls
+ex02  ex03b  ex04  ex05
+[shu53@ugradx exercises]$ cd ..
+[shu53@ugradx 2023-fall-student-shu53]$ cd..
+bash: cd..: command not found...
+
+[shu53@ugradx 2023-fall-student-shu53]$
+[shu53@ugradx 2023-fall-student-shu53]$ cd ..
+[shu53@ugradx ~]$ pwd
+/home/shu53
+[shu53@ugradx ~]$ ls
+ 2023-fall-student-shu53   Desktop  '#ex2.c#'   ex3~        git.log.txt    hello_world.c   README             temp
+ a.out                     ex2       ex2.c      ex3.zip     gitlog.txt     Mail            README~            test.c
+ cs220-f23-public          ex2~      ex3        file1.txt   hello_world~   public_html     README_FIRST.txt   test.c~
+[shu53@ugradx ~]$ cd cs220*
+[shu53@ugradx cs220-f23-public]$ ls
+exercises  README.md
+[shu53@ugradx cs220-f23-public]$ cd exercises
+[shu53@ugradx exercises]$ ls
+ex02  ex03b  ex04  ex05
+[shu53@ugradx exercises]$ pwd
+/home/shu53/cs220-f23-public/exercises
+[shu53@ugradx exercises]$ cd ..
+[shu53@ugradx cs220-f23-public]$ cd ..
+[shu53@ugradx ~]$ pwd
+/home/shu53
+[shu53@ugradx ~]$ l
+bash: l: command not found...
+[shu53@ugradx ~]$ ls
+ 2023-fall-student-shu53   Desktop  '#ex2.c#'   ex3~        git.log.txt    hello_world.c   README             temp
+ a.out                     ex2       ex2.c      ex3.zip     gitlog.txt     Mail            README~            test.c
+ cs220-f23-public          ex2~      ex3        file1.txt   hello_world~   public_html     README_FIRST.txt   test.c~
+[shu53@ugradx ~]$ cd temp
+[shu53@ugradx temp]$ pwd
+/home/shu53/temp
+[shu53@ugradx temp]$ cp shu53/cs220-f23-public/exercises/ex03b/hello_world.c .
+cp: cannot stat 'shu53/cs220-f23-public/exercises/ex03b/hello_world.c': No such file or directory
+[shu53@ugradx temp]$ cp ~/cs220-f23-public/exercises/ex03b/hello_world.c .
+cp: cannot stat '/home/shu53/cs220-f23-public/exercises/ex03b/hello_world.c': No such file or directory
+[shu53@ugradx temp]$ cd ..
+[shu53@ugradx ~]$ cd cs220-f23-public/
+[shu53@ugradx cs220-f23-public]$ ls
+exercises  README.md
+[shu53@ugradx cs220-f23-public]$ cd exercises
+[shu53@ugradx exercises]$ ls
+ex02  ex03b  ex04  ex05
+[shu53@ugradx exercises]$ cd ex03b
+[shu53@ugradx ex03b]$ ls
+helloworld.c
+[shu53@ugradx ex03b]$ cp ~/cs220-f23-public/exercises/ex03b/helloworld.c .
+cp: '/home/shu53/cs220-f23-public/exercises/ex03b/helloworld.c' and './helloworld.c' are the same file
+[shu53@ugradx ex03b]$ ls
+helloworld.c
+[shu53@ugradx ex03b]$ cd ..
+[shu53@ugradx exercises]$ cd
+[shu53@ugradx ~]$ cd temp
+[shu53@ugradx temp]$ cp ~/cs220-f23-public/exercises/ex03b/helloworld.c .
+[shu53@ugradx temp]$ pwd
+/home/shu53/temp
+[shu53@ugradx temp]$ ls
+helloworld.c
+[shu53@ugradx temp]$ gcc -std=c99 -Wall -Wextra -pedantic helloworld.c
+[shu53@ugradx temp]$ ls
+a.out  helloworld.c
+[shu53@ugradx temp]$ ./a.out
+Hello, World!
+[shu53@ugradx temp]$ cp helloworld.c hello_me.c
+[shu53@ugradx temp]$ ls
+a.out  hello_me.c  helloworld.c
+[shu53@ugradx temp]$ emacs hello_me.c
+[shu53@ugradx temp]$ gcc -std=c99 -Wall -Wextra -pedantic hello_me.c
+[shu53@ugradx temp]$ ./a.out
+Hello, Serena!
+[shu53@ugradx temp]$

@@ -1,0 +1,16 @@
+TEAM:
+Emily Zou - ezou2:
+    Worked on implementing reader, bounds, function, fill, plot, image, and renderer. Also made UML diagram.
+
+Ariel (Xingyu) Li - xli325
+    Worked on implementing reader, renderer, exceptions, and minor changes to other classes when necessary. Cleaned up/merged repetitive codes.
+
+Serena Hu - shu53
+    Worked on implementing function, expr, expr_parser, and main. Handled exceptions.
+
+DESIGN
+The reader takes in each directive and sets the plot. The plot is set by defining the boundaries, colors, fills, and expressions. Then, the renderer uses the information given in the plot to make an image by setting each pixel. 
+
+COMPLETENESS
+Everything in our project compiles and runs without any errors. The graphs are all correct!
+

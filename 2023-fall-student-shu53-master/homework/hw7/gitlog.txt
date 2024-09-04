@@ -1,0 +1,383 @@
+commit fcbe8e8e2e3531b338235653a3c08b6c2708a90a
+Author: Serena <shu53@jh.edu>
+Date:   Fri Nov 17 12:57:59 2023 -0500
+
+    memory checked, no leaks
+
+commit 885e8cb69766aa9762b663a2bf3d97a27238c61e
+Author: Serena <shu53@jh.edu>
+Date:   Fri Nov 17 12:44:30 2023 -0500
+
+    fixed errors with template dataloop, was missing {} when makeing new Node
+
+commit 5f025a43aa248c60476f59cc3172714b3efe2879
+Author: Serena <shu53@jh.edu>
+Date:   Fri Nov 17 09:38:08 2023 -0500
+
+    modifiying temple data loop
+
+commit b2e2aca78a146c3f010feb47b134a1317a44374c
+Author: Serena <shu53@jh.edu>
+Date:   Thu Nov 16 17:29:02 2023 -0500
+
+    updated makefile, revised copy constructor, += operator, = operator, and destructor, added clean function for easier application
+
+commit dcd1ea23b0b5ee879fefd3a7383275f1a14c9c4f
+Author: Serena <shu53@jh.edu>
+Date:   Thu Nov 16 00:13:21 2023 -0500
+
+    Makefile is added! needs revision: created DataLoop executab;e
+
+commit f8d50307852f1dadde3ae9a4e7abbfcfc85eb0d6
+Author: Serena <shu53@jh.edu>
+Date:   Wed Nov 15 23:58:30 2023 -0500
+
+    wrote and implemented all functions in DataLoop.cpp file, note: length() did not need further implementation
+
+commit 39f525056a65f3da2f7380ce78b11004757c84e2
+Author: Serena <shu53@jh.edu>
+Date:   Wed Nov 15 12:30:10 2023 -0500
+
+    created empty files that need to be filled (Dataloop.cpp TDataLoop.h/inc makefile readme) for submission
+
+commit 6e1a3d5f49723dd767261c68ade39c4f991aad27
+Author: Serena <shu53@jh.edu>
+Date:   Fri Nov 3 16:21:07 2023 -0400
+
+    modified style, renamed predictThirdWord function to findThirdWord
+
+commit 9f9083b4c40a9a225fe105b0c99a8b0d8ae66bd5
+Author: Serena <shu53@jh.edu>
+Date:   Fri Nov 3 16:02:19 2023 -0400
+
+    completed README, revised an edge case for operation f
+
+commit 269d84a0bb365d10f5dc5ca29f16d9f3a75b84fa
+Author: Serena <shu53@jh.edu>
+Date:   Fri Nov 3 14:42:05 2023 -0400
+
+    modified count ordered list to make the sort function more clear, added error handling on operation f
+
+commit bd96668fc0e2dbd80107a4d839ff506680a50f96
+Author: Serena <shu53@jh.edu>
+Date:   Fri Nov 3 13:11:33 2023 -0400
+
+    revised buildModel function, fixed the bug with END placeholders
+
+commit f203d449afd703e221e957666424f7a0141436e9
+Author: Serena <shu53@jh.edu>
+Date:   Fri Nov 3 09:04:28 2023 -0400
+
+    tested and revised the predictThirdWord function for operation f
+
+commit be00a5bb93d9a42ba9bb3d4018c2b6f101c6b184
+Author: Serena <shu53@jh.edu>
+Date:   Fri Nov 3 02:21:50 2023 -0400
+
+    tested buildModel function, and removed all using
+
+commit 8b79f02584588d2f0740f05893ea316651ece760
+Author: Serena <shu53@jh.edu>
+Date:   Thu Nov 2 18:01:38 2023 -0400
+
+    modifying error handling when open file
+
+commit 71a15f0823a1fc774fa6be8f136b5ec9c7f7ea9a
+Author: Serena <shu53@jh.edu>
+Date:   Thu Nov 2 15:51:43 2023 -0400
+
+    finshed the functions, start testing and debugging
+
+commit 7575b5c8fcbc88bb77fd808ccf324c63769a6752
+Author: Serena <shu53@jh.edu>
+Date:   Thu Nov 2 15:32:29 2023 -0400
+
+    revised makefile, revising the a operatioin function
+
+commit 9ff2ab864bd542cb7be56d0632c332b452300c8e
+Author: Serena <shu53@jh.edu>
+Date:   Wed Nov 1 18:44:45 2023 -0400
+
+    updated buildModels function to adhere to thre requirements of have 4 trigrams (START&END)
+
+commit b6b3e34fd985a6df478987016a680aecb012ea72
+Author: Serena <shu53@jh.edu>
+Date:   Wed Nov 1 18:30:12 2023 -0400
+
+    added the listFrequentTrigram function
+
+commit 2d9ff51245cd231c2ec328e235cf24d29f346bba
+Author: Serena <shu53@jh.edu>
+Date:   Wed Nov 1 18:04:08 2023 -0400
+
+    wrote function buildModel, countTrigram and PredictThirdWord; specified the if statements for operations in hw5.cpp
+
+commit 39c0979e474eef394677940d749e4306a378a269
+Author: Serena <shu53@jh.edu>
+Date:   Wed Nov 1 14:41:31 2023 -0400
+
+    adding function declarations for language_model.h, started buildModel function that reads the file and builds the trigram
+
+commit 6411528013cbd20013213f6a9028c774446f3f6d
+Author: Serena <shu53@jh.edu>
+Date:   Wed Nov 1 14:15:08 2023 -0400
+
+    read and open file in hw5
+
+commit 40c50cebb7ecc28d91fc1fa854b2b664270b6381
+Author: Serena <shu53@jh.edu>
+Date:   Wed Nov 1 10:10:14 2023 -0400
+
+    adding headers to hw5.cpp
+
+commit 8c9e629b62f3b8738cfadca75b7ad673141c306f
+Author: Serena <shu53@jh.edu>
+Date:   Mon Oct 30 17:13:47 2023 -0400
+
+    adding codes to take and read command line arguments
+
+commit b8e1c3b3333088399c2c24ae24dc7d5a39cb04eb
+Author: Serena <shu53@jh.edu>
+Date:   Mon Oct 30 13:44:36 2023 -0400
+
+    created hw5 subfolder with starter files
+
+commit 3159acc4c4b00cf8ffbf16a990a2ef485ca95105
+Author: Serena <shu53@jh.edu>
+Date:   Fri Sep 29 22:31:15 2023 -0400
+
+    final update before submission, still have error but have attempted to solve
+
+commit 793faf43f2d01d99c304e6a127fb73de7c11daaa
+Author: Serena <shu53@jh.edu>
+Date:   Fri Sep 29 20:43:54 2023 -0400
+
+    yayyyy, progress made on readfile function, hw3.c worked most of the time
+
+commit 2de4273ba9bfacdfa3f844aaedbc62418c2763fe
+Author: Serena <shu53@jh.edu>
+Date:   Fri Sep 29 14:19:15 2023 -0400
+
+    changing regex star
+
+commit 3d253433be189563ba795f549d5e1be1cfdaba23
+Author: Serena <shu53@jh.edu>
+Date:   Fri Sep 29 13:24:09 2023 -0400
+
+    makefile update, checking memory leak and etc.
+
+commit 1789d248e0fab1de75683c5f3a6e0d9f7e06834e
+Author: Serena <shu53@jh.edu>
+Date:   Fri Sep 29 02:18:52 2023 -0400
+
+    updating input functions
+
+commit ef9e41adeff878da4a2eb923e256b17a71ec69a7
+Author: Serena <shu53@jh.edu>
+Date:   Fri Sep 29 02:15:55 2023 -0400
+
+    updating input functions
+
+commit 2df1c2ae63a28d25bfd309a3af31074857bf6af0
+Author: Serena <shu53@jh.edu>
+Date:   Wed Sep 27 13:35:29 2023 -0400
+
+    gitlog updated
+
+commit 0510d5d5c08b243e6064b41937e2fdc89dde3458
+Author: Serena <shu53@jh.edu>
+Date:   Wed Sep 27 13:34:41 2023 -0400
+
+    saving progress
+
+commit e268cfc11e68de98e6ede02b3ba19f3de0df68fe
+Author: Serena <shu53@jh.edu>
+Date:   Fri Sep 15 20:50:21 2023 -0400
+
+    autograder error fixed: space added in printed lines
+
+commit 7fbcb2a995968a63dfe431f5ee637a4054c30d51
+Author: Serena <shu53@jh.edu>
+Date:   Fri Sep 15 20:23:25 2023 -0400
+
+    gitlog updated
+
+commit a3b490c73af3680a4d805c646605a7e83bbbeb58
+Author: Serena <shu53@jh.edu>
+Date:   Fri Sep 15 20:22:47 2023 -0400
+
+    yeah! errors fixed
+
+commit bedde83feccd18aeb8807d5ffcf4eabc08670859
+Author: Serena <shu53@jh.edu>
+Date:   Fri Sep 15 19:39:20 2023 -0400
+
+    gitlog
+
+commit ddef67212b23cfeaa340c5298ef4a839f8d59e2c
+Author: Serena <shu53@jh.edu>
+Date:   Fri Sep 15 19:38:50 2023 -0400
+
+    new update to coins
+
+commit 8bde5be39fc37dd4b8f1a9b5f867a83c4a637037
+Author: Serena <shu53@jh.edu>
+Date:   Fri Sep 15 13:32:30 2023 -0400
+
+    git log update
+
+commit 3ab085f0b5467329c1d2c76dbf9a431be0c39116
+Author: Serena <shu53@jh.edu>
+Date:   Fri Sep 15 13:31:09 2023 -0400
+
+    trying to fix output error
+
+commit 7c8a0e39fc3fc0b480c22c4727aa9d162dd6cf21
+Author: Serena <shu53@jh.edu>
+Date:   Fri Sep 15 02:25:08 2023 -0400
+
+    temp gitlog
+
+commit d0a88aab3cd6bab6838af9dae2c7a7e0870fd05d
+Author: Serena <shu53@jh.edu>
+Date:   Fri Sep 15 01:42:28 2023 -0400
+
+    removed name and JHED
+
+commit 5019e12e0c7766036413c8fef17958bd1c5f0a38
+Author: Serena <shu53@jh.edu>
+Date:   Fri Sep 15 01:29:25 2023 -0400
+
+    coins.c attempt 2, compile succeeds, error at the same spot (Invalid command before enter a command)
+
+commit 11a72e52b942966d1cee72681c542b604186cc73
+Author: Serena <shu53@jh.edu>
+Date:   Fri Sep 15 00:02:44 2023 -0400
+
+    attempting to write coins.c, compiled successfully but results unsatisfied
+
+commit cef3e6bf08019962414c27af627c7c82cb770597
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Wed Sep 13 13:44:47 2023 -0400
+
+    Create coins.c
+
+commit 53ef46f39d85b562e8a6cea6ca4f2a7c74d12075
+Author: Serena <shu53@jh.edu>
+Date:   Mon Sep 11 13:56:45 2023 -0400
+
+    Update hw0 files
+
+commit e03275f0ef9649e1035a46d58fbbbac801418d95
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Fri Sep 8 17:55:55 2023 -0400
+
+    Create three.c
+
+commit 4dd5db7f1c0985c8edaff0c5f5f4d9a28132d6eb
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Fri Sep 8 17:55:43 2023 -0400
+
+    Create two.c
+
+commit 0b45b08d7176fe4ae9b81aa458f59a5105792ae7
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Fri Sep 8 17:54:47 2023 -0400
+
+    Create one.c
+
+commit a4ced759946193f863388a4ef3ce097e58503ee7
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Fri Sep 8 17:54:27 2023 -0400
+
+    Delete homework/hw0 directory
+
+commit 6c4186426d90a94098cf8672052ae5fb76a2dabd
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Fri Sep 8 17:53:35 2023 -0400
+
+    Delete homework/hw1
+
+commit 1b4d48c366e80dfde3373a48d2c4ecf136cbf32b
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Fri Sep 8 17:51:05 2023 -0400
+
+    Create three.c
+
+commit 5b1940a5fcfe6d936345ebdec7877d10a4956032
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Fri Sep 8 17:50:44 2023 -0400
+
+    Create two.c
+
+commit c789cd8499255cf6ca7ade831f0730e532e7d0e3
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Fri Sep 8 17:50:28 2023 -0400
+
+    Create one.c
+
+commit 484e33805fdb8e2528ba1ad3a30e1daa9a02a6ab
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Fri Sep 8 17:50:13 2023 -0400
+
+    Rename hw0 to hw1
+
+commit 412b6d26d9b3f5b33ec6dd0ed79741fd1aca70e5
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Fri Sep 8 14:50:09 2023 -0400
+
+    Create hw0
+
+commit 165a56722492a1b3591b2377b5a8d6612fb9eb06
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Fri Sep 8 14:47:18 2023 -0400
+
+    Rename 3b-continued to terminal_record/3b-continued
+
+commit bcc8f4298a1a17d8f28afcf412cf8f625058fc5c
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Fri Sep 8 14:46:54 2023 -0400
+
+    Rename terminal record foe ex3b to terminal record for ex3b
+
+commit 8abad44a25be2fc8fd956b84cff6a9ec17515540
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Fri Sep 8 14:46:28 2023 -0400
+
+    Rename terminal record foe ex3b to terminal_record/terminal record foe ex3b
+
+commit 5366b0f6f94866d4161774c3cc41ba301df37e4f
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Fri Sep 8 14:44:17 2023 -0400
+
+    Create ex4
+
+commit 92b527824319a9ce338c0417f6837b7d3080b03e
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Fri Sep 8 14:19:28 2023 -0400
+
+    Create tr ex3b-continued
+
+commit 8fa308199c7d7e5db36995f567b6d6f34d210b9a
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Wed Sep 6 14:44:51 2023 -0400
+
+    Create terminal record for ex3b
+
+commit 0e5512fa8ac87d5f78feb84692417bef0dae1b96
+Author: Serena <shu53@jh.edu>
+Date:   Wed Sep 6 14:38:31 2023 -0400
+
+    Copy exercises into directory
+
+commit 67ddea9310ae9c08606be802e85705cd2a44307f
+Author: Serena <shu53@jh.edu>
+Date:   Fri Sep 1 14:49:22 2023 -0400
+
+    updated README
+
+commit bd0c440bf62b6a4de0ea42bb5d6a36f3cfcdfe64
+Author: Serena <shu53@jh.edu>
+Date:   Fri Sep 1 14:47:19 2023 -0400
+
+    created README

@@ -1,0 +1,20 @@
+Serena Hu
+shu53
+
+My program include hw5.cpp, language_model.h and language_model.cpp files, where hw5.cpp is the main (executable) file, language_model.h declares the functions used and language_model.cpp implements the functions.
+There's also a Makefile to help compile, link and execute the program. 
+
+The program allows users to perform operations such as sorting trigrams in ascending or descending order, listing trigrams by count, and finding the most frequently occurring third word in a given trigram.
+
+hw5.cpp is an executable file that takes at least two command-line arguments (a filename and an operation). 
+Each time the program is run, hw5.cpp will call the buildModel function to build the trigram-based language model by processing each text file specified in the input filename list.
+Depending on the second argument (one of four operations), the file will call specific function to perform operation on the model accordingly.
+The output of the program will consist of one trigram with associated count per line (or error messages in some cases).
+
+The language_model.h header file declares the following functions used in the program, while language_model.cpp file defines and implements them:
+    void buildModel(std::string filename, std::map<std::string, int>& trigramFrequencies);: Builds a trigram language model from a text file.
+    std::string findThirdWord(const std::string& word1, const std::string& word2, const std::map<std::string, int>& trigramFrequencies);: Determines the most occurring next word after word1 and word2. This operation requires two additional command-line arguments to specify the first and second words of the trigram.
+    void listAscendingAlphabeticalTrigrams(const std::map<std::string, int>& trigramFrequencies);: Lists trigrams in ascending alphabetical order.
+    void listDescendingAlphabeticalTrigrams(const std::map<std::string, int>& trigramFrequencies);: Lists trigrams in descending alphabetical order.
+    void listCountOrderedTrigrams(const std::map<std::string, int>& trigramFrequencies);: Lists trigrams in decreasing order by count.
+

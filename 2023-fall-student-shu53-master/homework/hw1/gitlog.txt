@@ -1,0 +1,179 @@
+commit a3b490c73af3680a4d805c646605a7e83bbbeb58
+Author: Serena <shu53@jh.edu>
+Date:   Fri Sep 15 20:22:47 2023 -0400
+
+    yeah! errors fixed
+
+commit bedde83feccd18aeb8807d5ffcf4eabc08670859
+Author: Serena <shu53@jh.edu>
+Date:   Fri Sep 15 19:39:20 2023 -0400
+
+    gitlog
+
+commit ddef67212b23cfeaa340c5298ef4a839f8d59e2c
+Author: Serena <shu53@jh.edu>
+Date:   Fri Sep 15 19:38:50 2023 -0400
+
+    new update to coins
+
+commit 8bde5be39fc37dd4b8f1a9b5f867a83c4a637037
+Author: Serena <shu53@jh.edu>
+Date:   Fri Sep 15 13:32:30 2023 -0400
+
+    git log update
+
+commit 3ab085f0b5467329c1d2c76dbf9a431be0c39116
+Author: Serena <shu53@jh.edu>
+Date:   Fri Sep 15 13:31:09 2023 -0400
+
+    trying to fix output error
+
+commit 7c8a0e39fc3fc0b480c22c4727aa9d162dd6cf21
+Author: Serena <shu53@jh.edu>
+Date:   Fri Sep 15 02:25:08 2023 -0400
+
+    temp gitlog
+
+commit d0a88aab3cd6bab6838af9dae2c7a7e0870fd05d
+Author: Serena <shu53@jh.edu>
+Date:   Fri Sep 15 01:42:28 2023 -0400
+
+    removed name and JHED
+
+commit 5019e12e0c7766036413c8fef17958bd1c5f0a38
+Author: Serena <shu53@jh.edu>
+Date:   Fri Sep 15 01:29:25 2023 -0400
+
+    coins.c attempt 2, compile succeeds, error at the same spot (Invalid command before enter a command)
+
+commit 11a72e52b942966d1cee72681c542b604186cc73
+Author: Serena <shu53@jh.edu>
+Date:   Fri Sep 15 00:02:44 2023 -0400
+
+    attempting to write coins.c, compiled successfully but results unsatisfied
+
+commit cef3e6bf08019962414c27af627c7c82cb770597
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Wed Sep 13 13:44:47 2023 -0400
+
+    Create coins.c
+
+commit 53ef46f39d85b562e8a6cea6ca4f2a7c74d12075
+Author: Serena <shu53@jh.edu>
+Date:   Mon Sep 11 13:56:45 2023 -0400
+
+    Update hw0 files
+
+commit e03275f0ef9649e1035a46d58fbbbac801418d95
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Fri Sep 8 17:55:55 2023 -0400
+
+    Create three.c
+
+commit 4dd5db7f1c0985c8edaff0c5f5f4d9a28132d6eb
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Fri Sep 8 17:55:43 2023 -0400
+
+    Create two.c
+
+commit 0b45b08d7176fe4ae9b81aa458f59a5105792ae7
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Fri Sep 8 17:54:47 2023 -0400
+
+    Create one.c
+
+commit a4ced759946193f863388a4ef3ce097e58503ee7
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Fri Sep 8 17:54:27 2023 -0400
+
+    Delete homework/hw0 directory
+
+commit 6c4186426d90a94098cf8672052ae5fb76a2dabd
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Fri Sep 8 17:53:35 2023 -0400
+
+    Delete homework/hw1
+
+commit 1b4d48c366e80dfde3373a48d2c4ecf136cbf32b
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Fri Sep 8 17:51:05 2023 -0400
+
+    Create three.c
+
+commit 5b1940a5fcfe6d936345ebdec7877d10a4956032
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Fri Sep 8 17:50:44 2023 -0400
+
+    Create two.c
+
+commit c789cd8499255cf6ca7ade831f0730e532e7d0e3
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Fri Sep 8 17:50:28 2023 -0400
+
+    Create one.c
+
+commit 484e33805fdb8e2528ba1ad3a30e1daa9a02a6ab
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Fri Sep 8 17:50:13 2023 -0400
+
+    Rename hw0 to hw1
+
+commit 412b6d26d9b3f5b33ec6dd0ed79741fd1aca70e5
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Fri Sep 8 14:50:09 2023 -0400
+
+    Create hw0
+
+commit 165a56722492a1b3591b2377b5a8d6612fb9eb06
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Fri Sep 8 14:47:18 2023 -0400
+
+    Rename 3b-continued to terminal_record/3b-continued
+
+commit bcc8f4298a1a17d8f28afcf412cf8f625058fc5c
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Fri Sep 8 14:46:54 2023 -0400
+
+    Rename terminal record foe ex3b to terminal record for ex3b
+
+commit 8abad44a25be2fc8fd956b84cff6a9ec17515540
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Fri Sep 8 14:46:28 2023 -0400
+
+    Rename terminal record foe ex3b to terminal_record/terminal record foe ex3b
+
+commit 5366b0f6f94866d4161774c3cc41ba301df37e4f
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Fri Sep 8 14:44:17 2023 -0400
+
+    Create ex4
+
+commit 92b527824319a9ce338c0417f6837b7d3080b03e
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Fri Sep 8 14:19:28 2023 -0400
+
+    Create tr ex3b-continued
+
+commit 8fa308199c7d7e5db36995f567b6d6f34d210b9a
+Author: serenahu29 <143439712+serenahu29@users.noreply.github.com>
+Date:   Wed Sep 6 14:44:51 2023 -0400
+
+    Create terminal record for ex3b
+
+commit 0e5512fa8ac87d5f78feb84692417bef0dae1b96
+Author: Serena <shu53@jh.edu>
+Date:   Wed Sep 6 14:38:31 2023 -0400
+
+    Copy exercises into directory
+
+commit 67ddea9310ae9c08606be802e85705cd2a44307f
+Author: Serena <shu53@jh.edu>
+Date:   Fri Sep 1 14:49:22 2023 -0400
+
+    updated README
+
+commit bd0c440bf62b6a4de0ea42bb5d6a36f3cfcdfe64
+Author: Serena <shu53@jh.edu>
+Date:   Fri Sep 1 14:47:19 2023 -0400
+
+    created README

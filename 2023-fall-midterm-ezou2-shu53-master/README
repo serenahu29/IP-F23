@@ -1,0 +1,19 @@
+//Team members:
+//Emily Zou ezou2
+//Serena Hu shu53
+
+/*
+Contributions:
+
+Serena
+puzzle_funcs.c: *puzzle_create, puzzle_destroy, puzzle_set_tile, puzzle_get_tile, handle_I_command, handle_W_command, handle_K_command
+puzzle_tests.c: test functions of I,W,K commands
+Makefile: executable "test"
+
+Emily
+puzzle_funcs.c: handle_C_command, handle_T_command, handle_P_command, handle_S_command, handle_V_command, handle_Q_command
+puzzle_tests.c: test functions of C,T,P,S,V,Q commands
+Makfile: executable "puzzle"
+puzzle.c
+
+*/

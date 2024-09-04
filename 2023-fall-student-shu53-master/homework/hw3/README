@@ -1,0 +1,9 @@
+Serena Hu
+shu53
+
+The program implemented various call functions, using read_file() to data from file pointer into words array and match() to to check whether regex matches a word (these two functions are in functions.c). The test_functions.c file is used to test if readfile and match functions properly. 
+
+In hw3.c, I started with checking the input command line arguments. After reading the input file using read_file() function and storing it into a 2D array, I implemented a regular expression matcher using the match() function.
+
+The error that I'm working on now is the assert statements in function match_regex_multiple() in test_functions.c file, there might be some logic mistakes regarding star (*). (For example, test case matching 'a*a' and 'a' wouldn't work.)
+
